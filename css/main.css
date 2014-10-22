@@ -70,8 +70,7 @@ header p {
 
 .menu {
 	padding: 1em;
-	background-color: rgb(207,205,140);
-	opacity: 0.5;
+	background-color: rgba(207,205,140, 0.5);
 }
 
 .menu dt {
